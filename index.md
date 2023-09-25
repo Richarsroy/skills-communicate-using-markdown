@@ -6,3 +6,7 @@
 var myVar = "Hello, world!
 <br> Myself Richards";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] Completed my markdown course
